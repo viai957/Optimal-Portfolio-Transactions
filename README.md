@@ -1,0 +1,2 @@
+# Optimal-Portfolio-Transactions
+We consider the execution of portfolio transactions with the aim of minimizing a combination of risk and transaction costs arising from permanent and temporary market impact. As an example, assume that you have a certain number of stocks that you want to sell within a given time frame. If you place this sell order directly to the market as it is, transaction costs may rise due to temporary market impact. On the other hand, if you split up into pieces in time, cost may rise due to volatility in the stock price
